@@ -1,0 +1,447 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "E:\\gsoc\\docusorous\\docusaurus-guide\\sidebars.js",
+          "contentPath": "E:\\gsoc\\docusorous\\docusaurus-guide\\docs",
+          "contentPathLocalized": "E:\\gsoc\\docusorous\\docusaurus-guide\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "backend/envsetup/mail",
+              "id": "backend/envsetup/mail",
+              "title": "Setting Up Email and Password for OTP Sending",
+              "description": "1. Create a New Email Account (Optional)",
+              "source": "@site/docs/backend/envsetup/mail.md",
+              "sourceDirName": "backend/envsetup",
+              "slug": "/backend/envsetup/mail",
+              "permalink": "/docs/backend/envsetup/mail",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/backend/envsetup/mail.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Generating MongoDB Connection URL",
+                "permalink": "/docs/backend/envsetup/mongodb"
+              },
+              "next": {
+                "title": "Setting Up Redis Cloud",
+                "permalink": "/docs/backend/envsetup/redis"
+              }
+            },
+            {
+              "unversionedId": "backend/envsetup/mongodb",
+              "id": "backend/envsetup/mongodb",
+              "title": "Generating MongoDB Connection URL",
+              "description": "To set up the Beacon backend, you need a MongoDB connection URL. Follow these steps to generate it using MongoDB Atlas:",
+              "source": "@site/docs/backend/envsetup/mongodb.md",
+              "sourceDirName": "backend/envsetup",
+              "slug": "/backend/envsetup/mongodb",
+              "permalink": "/docs/backend/envsetup/mongodb",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/backend/envsetup/mongodb.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "title": "Generating MongoDB Connection URL",
+                "sidebar_position": 2
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": ".env Setup",
+                "permalink": "/docs/category/env-setup"
+              },
+              "next": {
+                "title": "Setting Up Email and Password for OTP Sending",
+                "permalink": "/docs/backend/envsetup/mail"
+              }
+            },
+            {
+              "unversionedId": "backend/envsetup/redis",
+              "id": "backend/envsetup/redis",
+              "title": "Setting Up Redis Cloud",
+              "description": "1. Create a Redis Cloud Account",
+              "source": "@site/docs/backend/envsetup/redis.md",
+              "sourceDirName": "backend/envsetup",
+              "slug": "/backend/envsetup/redis",
+              "permalink": "/docs/backend/envsetup/redis",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/backend/envsetup/redis.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Setting Up Email and Password for OTP Sending",
+                "permalink": "/docs/backend/envsetup/mail"
+              },
+              "next": {
+                "title": "GraphQL Schema",
+                "permalink": "/docs/backend/schema"
+              }
+            },
+            {
+              "unversionedId": "backend/getting_started",
+              "id": "backend/getting_started",
+              "title": "Getting Started",
+              "description": "Follow these steps to set up and run the Beacon backend on your local machine.",
+              "source": "@site/docs/backend/getting_started.md",
+              "sourceDirName": "backend",
+              "slug": "/backend/getting_started",
+              "permalink": "/docs/backend/getting_started",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/backend/getting_started.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "title": "Getting Started",
+                "sidebar_position": 2
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Folder Structure",
+                "permalink": "/docs/backend/structure"
+              },
+              "next": {
+                "title": ".env Setup",
+                "permalink": "/docs/category/env-setup"
+              }
+            },
+            {
+              "unversionedId": "backend/introduction",
+              "id": "backend/introduction",
+              "title": "Introduction",
+              "description": "The backend of the Beacon app is a robust system designed to facilitate real-time location sharing among users. It leverages several key technologies to ensure efficiency, scalability, and reliability.",
+              "source": "@site/docs/backend/introduction.md",
+              "sourceDirName": "backend",
+              "slug": "/backend/introduction",
+              "permalink": "/docs/backend/introduction",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/backend/introduction.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "title": "Introduction",
+                "sidebar_position": 0
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Backend",
+                "permalink": "/docs/category/backend"
+              },
+              "next": {
+                "title": "Folder Structure",
+                "permalink": "/docs/backend/structure"
+              }
+            },
+            {
+              "unversionedId": "backend/resolvers",
+              "id": "backend/resolvers",
+              "title": "GraphQL Resolvers",
+              "description": "Overview",
+              "source": "@site/docs/backend/resolvers.md",
+              "sourceDirName": "backend",
+              "slug": "/backend/resolvers",
+              "permalink": "/docs/backend/resolvers",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/backend/resolvers.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "title": "GraphQL Resolvers",
+                "sidebar_position": 5
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "GraphQL Schema",
+                "permalink": "/docs/backend/schema"
+              },
+              "next": {
+                "title": "Frontend",
+                "permalink": "/docs/category/frontend"
+              }
+            },
+            {
+              "unversionedId": "backend/schema",
+              "id": "backend/schema",
+              "title": "GraphQL Schema",
+              "description": "Overview",
+              "source": "@site/docs/backend/schema.md",
+              "sourceDirName": "backend",
+              "slug": "/backend/schema",
+              "permalink": "/docs/backend/schema",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/backend/schema.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "title": "GraphQL Schema",
+                "sidebar_position": 4
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Setting Up Redis Cloud",
+                "permalink": "/docs/backend/envsetup/redis"
+              },
+              "next": {
+                "title": "GraphQL Resolvers",
+                "permalink": "/docs/backend/resolvers"
+              }
+            },
+            {
+              "unversionedId": "backend/structure",
+              "id": "backend/structure",
+              "title": "Folder Structure",
+              "description": "Root Directory Structure",
+              "source": "@site/docs/backend/structure.md",
+              "sourceDirName": "backend",
+              "slug": "/backend/structure",
+              "permalink": "/docs/backend/structure",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/backend/structure.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Folder Structure",
+                "sidebar_position": 1
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/docs/backend/introduction"
+              },
+              "next": {
+                "title": "Getting Started",
+                "permalink": "/docs/backend/getting_started"
+              }
+            },
+            {
+              "unversionedId": "frontend/firbase",
+              "id": "frontend/firbase",
+              "title": "Setting Up Firebase",
+              "description": "To integrate Google Authentication into your Flutter app using Firebase, follow the steps below.",
+              "source": "@site/docs/frontend/firbase.md",
+              "sourceDirName": "frontend",
+              "slug": "/frontend/firbase",
+              "permalink": "/docs/frontend/firbase",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/frontend/firbase.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "title": "Setting Up Firebase",
+                "sidebar_position": 2
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Folder Structure",
+                "permalink": "/docs/frontend/structure"
+              }
+            },
+            {
+              "unversionedId": "frontend/getting_started",
+              "id": "frontend/getting_started",
+              "title": "Getting Started",
+              "description": "This guide will help you set up and run the Beacon frontend application on your local machine.",
+              "source": "@site/docs/frontend/getting_started.md",
+              "sourceDirName": "frontend",
+              "slug": "/frontend/getting_started",
+              "permalink": "/docs/frontend/getting_started",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/frontend/getting_started.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Getting Started",
+                "sidebar_position": 1
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Frontend",
+                "permalink": "/docs/category/frontend"
+              },
+              "next": {
+                "title": "Folder Structure",
+                "permalink": "/docs/frontend/structure"
+              }
+            },
+            {
+              "unversionedId": "frontend/structure",
+              "id": "frontend/structure",
+              "title": "Folder Structure",
+              "description": "This project follows Clean Architecture with the following structure:",
+              "source": "@site/docs/frontend/structure.md",
+              "sourceDirName": "frontend",
+              "slug": "/frontend/structure",
+              "permalink": "/docs/frontend/structure",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/frontend/structure.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Folder Structure",
+                "sidebar_position": 1
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/docs/frontend/getting_started"
+              },
+              "next": {
+                "title": "Setting Up Firebase",
+                "permalink": "/docs/frontend/firbase"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "docsSidebar": [
+              {
+                "type": "category",
+                "label": "Backend",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "backend/introduction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "backend/structure"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "backend/getting_started"
+                  },
+                  {
+                    "type": "category",
+                    "label": ".env Setup",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "backend/envsetup/mongodb"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "backend/envsetup/mail"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "backend/envsetup/redis"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "This is a custom description",
+                      "slug": "/category/env-setup",
+                      "permalink": "/docs/category/env-setup"
+                    }
+                  },
+                  {
+                    "type": "doc",
+                    "id": "backend/schema"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "backend/resolvers"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "This is a custom description",
+                  "slug": "/category/backend",
+                  "permalink": "/docs/category/backend"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Frontend",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "frontend/getting_started"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "frontend/structure"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "frontend/firbase"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "This is a custom description",
+                  "slug": "/category/frontend",
+                  "permalink": "/docs/category/frontend"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

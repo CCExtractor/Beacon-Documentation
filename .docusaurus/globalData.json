@@ -1,0 +1,98 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "backend/introduction",
+          "docs": [
+            {
+              "id": "backend/envsetup/mail",
+              "path": "/docs/backend/envsetup/mail",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "backend/envsetup/mongodb",
+              "path": "/docs/backend/envsetup/mongodb",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "backend/envsetup/redis",
+              "path": "/docs/backend/envsetup/redis",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "backend/getting_started",
+              "path": "/docs/backend/getting_started",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "backend/introduction",
+              "path": "/docs/backend/introduction",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "backend/resolvers",
+              "path": "/docs/backend/resolvers",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "backend/schema",
+              "path": "/docs/backend/schema",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "backend/structure",
+              "path": "/docs/backend/structure",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "frontend/firbase",
+              "path": "/docs/frontend/firbase",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "frontend/getting_started",
+              "path": "/docs/frontend/getting_started",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "frontend/structure",
+              "path": "/docs/frontend/structure",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "/category/backend",
+              "path": "/docs/category/backend",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "/category/env-setup",
+              "path": "/docs/category/env-setup",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "/category/frontend",
+              "path": "/docs/category/frontend",
+              "sidebar": "docsSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docsSidebar": {
+              "link": {
+                "path": "/docs/category/backend",
+                "label": "Backend"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

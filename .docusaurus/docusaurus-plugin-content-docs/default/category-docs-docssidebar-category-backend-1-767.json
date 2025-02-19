@@ -1,0 +1,16 @@
+{
+  "title": "Backend",
+  "description": "This is a custom description",
+  "slug": "/category/backend-1",
+  "permalink": "/docs/category/backend-1",
+  "navigation": {
+    "previous": {
+      "title": "GraphQL Resolvers",
+      "permalink": "/docs/backend/resolvers"
+    },
+    "next": {
+      "title": "Folder Structure",
+      "permalink": "/docs/frontend/test"
+    }
+  }
+}

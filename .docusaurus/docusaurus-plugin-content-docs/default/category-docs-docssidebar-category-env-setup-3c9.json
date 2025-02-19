@@ -1,0 +1,16 @@
+{
+  "title": ".env Setup",
+  "description": "This is a custom description",
+  "slug": "/category/env-setup",
+  "permalink": "/docs/category/env-setup",
+  "navigation": {
+    "previous": {
+      "title": "Getting Started",
+      "permalink": "/docs/backend/getting_started"
+    },
+    "next": {
+      "title": "Generating MongoDB Connection URL",
+      "permalink": "/docs/backend/envsetup/mongodb"
+    }
+  }
+}

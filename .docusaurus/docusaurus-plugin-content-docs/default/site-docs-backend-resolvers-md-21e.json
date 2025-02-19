@@ -1,0 +1,28 @@
+{
+  "unversionedId": "backend/resolvers",
+  "id": "backend/resolvers",
+  "title": "GraphQL Resolvers",
+  "description": "Overview",
+  "source": "@site/docs/backend/resolvers.md",
+  "sourceDirName": "backend",
+  "slug": "/backend/resolvers",
+  "permalink": "/docs/backend/resolvers",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/backend/resolvers.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "GraphQL Resolvers",
+    "sidebar_position": 5
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "GraphQL Schema",
+    "permalink": "/docs/backend/schema"
+  },
+  "next": {
+    "title": "Frontend",
+    "permalink": "/docs/category/frontend"
+  }
+}

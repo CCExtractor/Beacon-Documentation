@@ -1,0 +1,16 @@
+{
+  "title": "Fron",
+  "description": "This is a custom description",
+  "slug": "/category/fron",
+  "permalink": "/docs/category/fron",
+  "navigation": {
+    "previous": {
+      "title": "GraphQL Resolvers",
+      "permalink": "/docs/backend/resolvers"
+    },
+    "next": {
+      "title": "Folder Structure",
+      "permalink": "/docs/frontend/test"
+    }
+  }
+}

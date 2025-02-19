@@ -1,0 +1,28 @@
+{
+  "unversionedId": "getting started/alerts",
+  "id": "getting started/alerts",
+  "title": "Alerts or Admonitions",
+  "description": "Here's some information with Markdown styling.",
+  "source": "@site/docs/getting started/alerts.md",
+  "sourceDirName": "getting started",
+  "slug": "/getting started/alerts",
+  "permalink": "/docs/getting started/alerts",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting started/alerts.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Alerts or Admonitions",
+    "sidebar_position": 5
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Tabs in Markdown",
+    "permalink": "/docs/getting started/tabs"
+  },
+  "next": {
+    "title": "Codeblocks",
+    "permalink": "/docs/getting started/codeblocks"
+  }
+}

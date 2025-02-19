@@ -1,0 +1,16 @@
+{
+  "title": "Frontend",
+  "description": "This is a custom description",
+  "slug": "/category/frontend",
+  "permalink": "/docs/category/frontend",
+  "navigation": {
+    "previous": {
+      "title": "GraphQL Resolvers",
+      "permalink": "/docs/backend/resolvers"
+    },
+    "next": {
+      "title": "Getting Started",
+      "permalink": "/docs/frontend/getting_started"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "getting started/mdx",
+  "id": "getting started/mdx",
+  "title": "MDX",
+  "description": "Important information: This is an Exciting example of custom components!",
+  "source": "@site/docs/getting started/mdx.md",
+  "sourceDirName": "getting started",
+  "slug": "/getting started/mdx",
+  "permalink": "/docs/getting started/mdx",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting started/mdx.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "MDX",
+    "sidebar_position": 3
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Table of Contents",
+    "permalink": "/docs/getting started/table-of-contents"
+  },
+  "next": {
+    "title": "Tabs in Markdown",
+    "permalink": "/docs/getting started/tabs"
+  }
+}
