@@ -1,0 +1,28 @@
+{
+  "unversionedId": "getting started/tabs",
+  "id": "getting started/tabs",
+  "title": "Tabs in Markdown",
+  "description": "Dive into the world of knowledge with a captivating book 📚",
+  "source": "@site/docs/getting started/tabs.md",
+  "sourceDirName": "getting started",
+  "slug": "/getting started/tabs",
+  "permalink": "/docs/getting started/tabs",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting started/tabs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Tabs in Markdown",
+    "sidebar_position": 4
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "MDX",
+    "permalink": "/docs/getting started/mdx"
+  },
+  "next": {
+    "title": "Alerts or Admonitions",
+    "permalink": "/docs/getting started/alerts"
+  }
+}

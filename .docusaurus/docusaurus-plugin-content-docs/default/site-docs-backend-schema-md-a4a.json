@@ -1,0 +1,28 @@
+{
+  "unversionedId": "backend/schema",
+  "id": "backend/schema",
+  "title": "GraphQL Schema",
+  "description": "Overview",
+  "source": "@site/docs/backend/schema.md",
+  "sourceDirName": "backend",
+  "slug": "/backend/schema",
+  "permalink": "/docs/backend/schema",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/backend/schema.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "GraphQL Schema",
+    "sidebar_position": 4
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Setting Up Redis Cloud",
+    "permalink": "/docs/backend/envsetup/redis"
+  },
+  "next": {
+    "title": "GraphQL Resolvers",
+    "permalink": "/docs/backend/resolvers"
+  }
+}

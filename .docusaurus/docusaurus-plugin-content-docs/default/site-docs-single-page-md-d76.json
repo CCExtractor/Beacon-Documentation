@@ -1,0 +1,31 @@
+{
+  "unversionedId": "single-page",
+  "id": "single-page",
+  "title": "Our First Page",
+  "description": "A short description of this page",
+  "source": "@site/docs/single-page.md",
+  "sourceDirName": ".",
+  "slug": "/single-page",
+  "permalink": "/docs/single-page",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/single-page.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Our First Page",
+    "sidebar_position": 1,
+    "description": "A short description of this page",
+    "image": "../static/img/docusaurus-social-card.jpg",
+    "keywords": [
+      "keywords",
+      "describing",
+      "the main topics"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "next": {
+    "title": "Backend",
+    "permalink": "/docs/category/backend"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "/__docusaurus/debug-6ea": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-4-fe-ac8"
+    }
+  },
+  "/__docusaurus/debug/config-32f": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-4-fe-ac8"
+    }
+  },
+  "/__docusaurus/debug/content-84f": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-4-fe-ac8"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-69a": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-4-fe-ac8"
+    }
+  },
+  "/__docusaurus/debug/metadata-39a": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-4-fe-ac8"
+    }
+  },
+  "/__docusaurus/debug/registry-d5c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-4-fe-ac8"
+    }
+  },
+  "/__docusaurus/debug/routes-766": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-4-fe-ac8"
+    }
+  },
+  "/markdown-page-697": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-page-9-b-2-3e3"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-92c": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---docs-51-d-bf5"
+    },
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/backend/envsetup/mail-091": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-backend-envsetup-mailfa-9-ceb"
+  },
+  "/docs/backend/envsetup/mongodb-2c5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-backend-envsetup-mongodbf-99-584"
+  },
+  "/docs/backend/envsetup/redis-a61": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-backend-envsetup-rediseab-07e"
+  },
+  "/docs/backend/getting_started-42d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-backend-getting-startedadf-685"
+  },
+  "/docs/backend/introduction-ceb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-backend-introductiondbe-d39"
+  },
+  "/docs/backend/resolvers-b72": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-backend-resolvers-21-e-470"
+  },
+  "/docs/backend/schema-6c8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-backend-schemaa-4-a-287"
+  },
+  "/docs/backend/structure-60b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-backend-structure-8-c-1-1dd"
+  },
+  "/docs/category/backend-203": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-backend-15-a-5f6"
+  },
+  "/docs/category/env-setup-792": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-env-setupda-1-263"
+  },
+  "/docs/category/frontend-78a": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-frontend-1-c-7-668"
+  },
+  "/docs/frontend/firbase-b37": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-frontend-firbase-314-1c9"
+  },
+  "/docs/frontend/getting_started-ead": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-frontend-getting-startedf-3-d-1f3"
+  },
+  "/docs/frontend/structure-d10": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-frontend-structurefbf-76a"
+  },
+  "/-7a8": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-page-9-b-2-3e3"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

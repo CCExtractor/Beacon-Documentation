@@ -1,0 +1,28 @@
+{
+  "unversionedId": "backend/envsetup/main",
+  "id": "backend/envsetup/main",
+  "title": "Getting Started",
+  "description": "Follow these steps to set up and run the Beacon backend on your local machine.",
+  "source": "@site/docs/backend/envsetup/main.md",
+  "sourceDirName": "backend/envsetup",
+  "slug": "/backend/envsetup/main",
+  "permalink": "/docs/backend/envsetup/main",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/backend/envsetup/main.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Getting Started",
+    "sidebar_position": 0
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": ".env Setup",
+    "permalink": "/docs/category/env-setup"
+  },
+  "next": {
+    "title": "mongodb",
+    "permalink": "/docs/backend/envsetup/mongodb"
+  }
+}

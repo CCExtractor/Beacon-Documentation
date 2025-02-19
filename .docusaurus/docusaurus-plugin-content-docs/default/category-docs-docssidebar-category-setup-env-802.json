@@ -1,0 +1,16 @@
+{
+  "title": "Setup .env",
+  "description": "This is a custom description",
+  "slug": "/category/setup-env",
+  "permalink": "/docs/category/setup-env",
+  "navigation": {
+    "previous": {
+      "title": "Backend",
+      "permalink": "/docs/category/backend"
+    },
+    "next": {
+      "title": "Getting Started",
+      "permalink": "/docs/backend/envsetup/main"
+    }
+  }
+}

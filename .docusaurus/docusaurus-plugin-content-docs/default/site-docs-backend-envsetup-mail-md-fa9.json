@@ -1,0 +1,24 @@
+{
+  "unversionedId": "backend/envsetup/mail",
+  "id": "backend/envsetup/mail",
+  "title": "Setting Up Email and Password for OTP Sending",
+  "description": "1. Create a New Email Account (Optional)",
+  "source": "@site/docs/backend/envsetup/mail.md",
+  "sourceDirName": "backend/envsetup",
+  "slug": "/backend/envsetup/mail",
+  "permalink": "/docs/backend/envsetup/mail",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/backend/envsetup/mail.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Generating MongoDB Connection URL",
+    "permalink": "/docs/backend/envsetup/mongodb"
+  },
+  "next": {
+    "title": "Setting Up Redis Cloud",
+    "permalink": "/docs/backend/envsetup/redis"
+  }
+}

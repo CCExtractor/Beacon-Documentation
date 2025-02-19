@@ -1,0 +1,12 @@
+{
+  "title": "Backend",
+  "description": "This is a custom description",
+  "slug": "/category/backend",
+  "permalink": "/docs/category/backend",
+  "navigation": {
+    "next": {
+      "title": "Introduction",
+      "permalink": "/docs/backend/introduction"
+    }
+  }
+}

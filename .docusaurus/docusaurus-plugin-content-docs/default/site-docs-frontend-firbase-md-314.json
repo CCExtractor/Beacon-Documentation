@@ -1,0 +1,24 @@
+{
+  "unversionedId": "frontend/firbase",
+  "id": "frontend/firbase",
+  "title": "Setting Up Firebase",
+  "description": "To integrate Google Authentication into your Flutter app using Firebase, follow the steps below.",
+  "source": "@site/docs/frontend/firbase.md",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/firbase",
+  "permalink": "/docs/frontend/firbase",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/frontend/firbase.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Setting Up Firebase",
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Folder Structure",
+    "permalink": "/docs/frontend/structure"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Custom Title",
+  "description": "This is a custom description",
+  "slug": "/category/custom-title",
+  "permalink": "/docs/category/custom-title",
+  "navigation": {
+    "previous": {
+      "title": "Our First Page",
+      "permalink": "/docs/single-page"
+    },
+    "next": {
+      "title": "Basic Markdown",
+      "permalink": "/docs/getting started/markdown"
+    }
+  }
+}

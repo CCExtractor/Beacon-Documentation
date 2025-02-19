@@ -1,0 +1,28 @@
+{
+  "unversionedId": "backend/envsetup/mongodb",
+  "id": "backend/envsetup/mongodb",
+  "title": "Generating MongoDB Connection URL",
+  "description": "To set up the Beacon backend, you need a MongoDB connection URL. Follow these steps to generate it using MongoDB Atlas:",
+  "source": "@site/docs/backend/envsetup/mongodb.md",
+  "sourceDirName": "backend/envsetup",
+  "slug": "/backend/envsetup/mongodb",
+  "permalink": "/docs/backend/envsetup/mongodb",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/backend/envsetup/mongodb.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Generating MongoDB Connection URL",
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": ".env Setup",
+    "permalink": "/docs/category/env-setup"
+  },
+  "next": {
+    "title": "Setting Up Email and Password for OTP Sending",
+    "permalink": "/docs/backend/envsetup/mail"
+  }
+}

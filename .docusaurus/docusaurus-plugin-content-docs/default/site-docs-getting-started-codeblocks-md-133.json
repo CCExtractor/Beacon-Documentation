@@ -1,0 +1,28 @@
+{
+  "unversionedId": "getting started/codeblocks",
+  "id": "getting started/codeblocks",
+  "title": "Codeblocks",
+  "description": "",
+  "source": "@site/docs/getting started/codeblocks.md",
+  "sourceDirName": "getting started",
+  "slug": "/getting started/codeblocks",
+  "permalink": "/docs/getting started/codeblocks",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting started/codeblocks.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Codeblocks",
+    "sidebar_position": 6
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Alerts or Admonitions",
+    "permalink": "/docs/getting started/alerts"
+  },
+  "next": {
+    "title": "Backend",
+    "permalink": "/docs/category/backend"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "docsSidebar": [
+      {
+        "type": "category",
+        "label": "Backend",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction",
+            "href": "/docs/backend/introduction",
+            "docId": "backend/introduction"
+          },
+          {
+            "type": "link",
+            "label": "Folder Structure",
+            "href": "/docs/backend/structure",
+            "docId": "backend/structure"
+          },
+          {
+            "type": "link",
+            "label": "Getting Started",
+            "href": "/docs/backend/getting_started",
+            "docId": "backend/getting_started"
+          },
+          {
+            "type": "category",
+            "label": ".env Setup",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Generating MongoDB Connection URL",
+                "href": "/docs/backend/envsetup/mongodb",
+                "docId": "backend/envsetup/mongodb"
+              },
+              {
+                "type": "link",
+                "label": "Setting Up Email and Password for OTP Sending",
+                "href": "/docs/backend/envsetup/mail",
+                "docId": "backend/envsetup/mail"
+              },
+              {
+                "type": "link",
+                "label": "Setting Up Redis Cloud",
+                "href": "/docs/backend/envsetup/redis",
+                "docId": "backend/envsetup/redis"
+              }
+            ],
+            "href": "/docs/category/env-setup"
+          },
+          {
+            "type": "link",
+            "label": "GraphQL Schema",
+            "href": "/docs/backend/schema",
+            "docId": "backend/schema"
+          },
+          {
+            "type": "link",
+            "label": "GraphQL Resolvers",
+            "href": "/docs/backend/resolvers",
+            "docId": "backend/resolvers"
+          }
+        ],
+        "href": "/docs/category/backend"
+      },
+      {
+        "type": "category",
+        "label": "Frontend",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Getting Started",
+            "href": "/docs/frontend/getting_started",
+            "docId": "frontend/getting_started"
+          },
+          {
+            "type": "link",
+            "label": "Folder Structure",
+            "href": "/docs/frontend/structure",
+            "docId": "frontend/structure"
+          },
+          {
+            "type": "link",
+            "label": "Setting Up Firebase",
+            "href": "/docs/frontend/firbase",
+            "docId": "frontend/firbase"
+          }
+        ],
+        "href": "/docs/category/frontend"
+      }
+    ]
+  },
+  "docs": {
+    "backend/envsetup/mail": {
+      "id": "backend/envsetup/mail",
+      "title": "Setting Up Email and Password for OTP Sending",
+      "description": "1. Create a New Email Account (Optional)",
+      "sidebar": "docsSidebar"
+    },
+    "backend/envsetup/mongodb": {
+      "id": "backend/envsetup/mongodb",
+      "title": "Generating MongoDB Connection URL",
+      "description": "To set up the Beacon backend, you need a MongoDB connection URL. Follow these steps to generate it using MongoDB Atlas:",
+      "sidebar": "docsSidebar"
+    },
+    "backend/envsetup/redis": {
+      "id": "backend/envsetup/redis",
+      "title": "Setting Up Redis Cloud",
+      "description": "1. Create a Redis Cloud Account",
+      "sidebar": "docsSidebar"
+    },
+    "backend/getting_started": {
+      "id": "backend/getting_started",
+      "title": "Getting Started",
+      "description": "Follow these steps to set up and run the Beacon backend on your local machine.",
+      "sidebar": "docsSidebar"
+    },
+    "backend/introduction": {
+      "id": "backend/introduction",
+      "title": "Introduction",
+      "description": "The backend of the Beacon app is a robust system designed to facilitate real-time location sharing among users. It leverages several key technologies to ensure efficiency, scalability, and reliability.",
+      "sidebar": "docsSidebar"
+    },
+    "backend/resolvers": {
+      "id": "backend/resolvers",
+      "title": "GraphQL Resolvers",
+      "description": "Overview",
+      "sidebar": "docsSidebar"
+    },
+    "backend/schema": {
+      "id": "backend/schema",
+      "title": "GraphQL Schema",
+      "description": "Overview",
+      "sidebar": "docsSidebar"
+    },
+    "backend/structure": {
+      "id": "backend/structure",
+      "title": "Folder Structure",
+      "description": "Root Directory Structure",
+      "sidebar": "docsSidebar"
+    },
+    "frontend/firbase": {
+      "id": "frontend/firbase",
+      "title": "Setting Up Firebase",
+      "description": "To integrate Google Authentication into your Flutter app using Firebase, follow the steps below.",
+      "sidebar": "docsSidebar"
+    },
+    "frontend/getting_started": {
+      "id": "frontend/getting_started",
+      "title": "Getting Started",
+      "description": "This guide will help you set up and run the Beacon frontend application on your local machine.",
+      "sidebar": "docsSidebar"
+    },
+    "frontend/structure": {
+      "id": "frontend/structure",
+      "title": "Folder Structure",
+      "description": "This project follows Clean Architecture with the following structure:",
+      "sidebar": "docsSidebar"
+    }
+  }
+}

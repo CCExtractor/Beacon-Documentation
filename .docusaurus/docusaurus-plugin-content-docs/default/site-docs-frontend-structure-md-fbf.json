@@ -1,0 +1,28 @@
+{
+  "unversionedId": "frontend/structure",
+  "id": "frontend/structure",
+  "title": "Folder Structure",
+  "description": "This project follows Clean Architecture with the following structure:",
+  "source": "@site/docs/frontend/structure.md",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/structure",
+  "permalink": "/docs/frontend/structure",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/frontend/structure.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Folder Structure",
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/frontend/getting_started"
+  },
+  "next": {
+    "title": "Setting Up Firebase",
+    "permalink": "/docs/frontend/firbase"
+  }
+}

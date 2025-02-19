@@ -1,0 +1,20 @@
+{
+  "unversionedId": "backend/mongodb",
+  "id": "backend/mongodb",
+  "title": "mongodb",
+  "description": "",
+  "source": "@site/docs/backend/mongodb.md",
+  "sourceDirName": "backend",
+  "slug": "/backend/mongodb",
+  "permalink": "/docs/backend/mongodb",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/backend/mongodb.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/backend/envsetup/main"
+  }
+}

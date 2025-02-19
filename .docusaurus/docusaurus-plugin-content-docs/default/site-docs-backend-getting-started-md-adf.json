@@ -1,0 +1,28 @@
+{
+  "unversionedId": "backend/getting_started",
+  "id": "backend/getting_started",
+  "title": "Getting Started",
+  "description": "Follow these steps to set up and run the Beacon backend on your local machine.",
+  "source": "@site/docs/backend/getting_started.md",
+  "sourceDirName": "backend",
+  "slug": "/backend/getting_started",
+  "permalink": "/docs/backend/getting_started",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/backend/getting_started.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Getting Started",
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Folder Structure",
+    "permalink": "/docs/backend/structure"
+  },
+  "next": {
+    "title": ".env Setup",
+    "permalink": "/docs/category/env-setup"
+  }
+}
