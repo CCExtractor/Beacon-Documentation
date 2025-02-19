@@ -1,30 +1,3 @@
-# Build Stunning Documentations With React & Docusaurus (Complete Guide)
-
-Learn how to create stunning documentation in minutes with React and Docusaurus. Spend more time building your product and less time writing your documentation.
-
-![Docusaurus](https://user-images.githubusercontent.com/47107420/267978511-9f934544-0fc4-44e1-84a1-150a4d9539d2.png)
-
-## Here’s What You’ll Learn 👨🏻‍💻
-
-- What is Docusaurus?
-- Install Docusaurus
-- Creating your own documentation
-- MDX (Markdown + JSX)
-- Import components into Markdown
-- Using tabs, alerts and codeblocks
-- Customizing the sidebar
-- Implementing a table of contents
-- Custom styling
-- Creating custom pages
-- Setting up the blog
-- SEO
-- Deployment
-
-## Change Homepage to Use Images Instead
-
-Here's an example, you can replace the images inside the array. Edit the located at `/src/components/HomepageFeatures/index.js`.
-
-```jsx
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
@@ -32,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    Image: require('@site/static/img/docusaurus-social-card.jpg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
         Docusaurus was designed from the ground up to be easily installed and
@@ -42,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Focus on What Matters',
-    Image: require('@site/static/img/docusaurus-social-card.jpg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
@@ -52,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Powered by React',
-    Image: require('@site/static/img/docusaurus-social-card.jpg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can
@@ -62,11 +35,11 @@ const FeatureList = [
   },
 ];
 
-function Feature({ Image, title, description }) {
+function Feature({Svg, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <img src={Image} className={styles.featureImage} alt={title} />
+        <Svg className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
@@ -89,4 +62,3 @@ export default function HomepageFeatures() {
     </section>
   );
 }
-```
